@@ -8,7 +8,7 @@ const header=()=>{
                 </div>
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
-                        <li class="nav__item"><a href="/" class="nav__link">Home</a></li>
+                        <li class="nav__item"><a href="/" class="nav__link">Homepage</a></li>
                         <li class="nav__item"><a href="/about" class="nav__link">About</a></li>
                         <li class="nav__item"><a href="/contact" class="nav__link">Contact</a></li>
                     </ul>
